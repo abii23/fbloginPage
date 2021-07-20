@@ -1,0 +1,58 @@
+.header{
+    background-color: #34559e;
+    color: #1877f2;
+    width: 490%;
+    height: 90px;
+    float: left;
+    margin: 0px;
+}
+body{
+    margin: 0;
+    float: left;
+}
+.login{
+    color:black;
+    width: 100%;
+    height: 40px;
+   
+   
+    margin-left: 00px;
+    float: left;
+ 
+   
+}
+.username{
+    color:ivory;
+    
+    width:100%;
+    height: 20px;
+    float: left;
+    margin-top: 0px;
+    margin-left: 900px;
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+.password{
+    width:100%;
+    height: 20px;
+    float: left;
+    margin-top: -19px;
+    margin-left: 1270px;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-bottom: 0px;
+    color: ivory;
+
+}
+.button{
+margin-left: 260px;
+margin-top: -20px;
+}
+.fpassword{
+    color: ivory;
+    width: 10px;
+    height: 20px;
+    margin-top: -6px;
+    font-size: 8px;
+    margin-left: 90px;
+    padding: 0px;
+}
